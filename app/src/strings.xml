@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UmpireBuddy-Yang</string>
+    <string name="umpire_buddy">Umpire Buddy</string>
+    <string name="reset">Reset</string>
+    <string name="total_balls">Total Balls</string>
+    <string name="total_strikes">Total Strikes</string>
+    <string name="strikes">Strikes</string>
+    <string name="balls">Balls</string>
+    <string name="umpirebuddy_2_0">UmpireBuddy 2.0</string>
+    <string name="textview">TextView</string>
+    <string name="sandy_yang">Sandy Yang</string>
+    <string name="walk">Walk!</string>
+    <string name="strike">Strike!</string>
+    <string name="about">About</string>
+</resources>
